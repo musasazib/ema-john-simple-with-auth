@@ -8,15 +8,15 @@ In the project directory, you can run:
 
 ### `Step-1`
 ## Authentication
--Firebase - Create project
--Create web app
--Get configuration
--Initialize firebase
--Enable Auth method
+- Firebase - Create project.
+- Create web app
+- Get configuration
+- Initialize firebase
+- Enable Auth method
 
 ### `Step-2`
-### Login & Register Component
--Create Login component
--Create Register component
--Create Route for Login & Register
+## Login & Register Component
+- Create Login component
+- Create Register component
+- Create Route for Login & Register
 
