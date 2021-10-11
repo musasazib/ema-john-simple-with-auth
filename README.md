@@ -6,8 +6,8 @@ GitHub Link [link](https://github.com/musasazib/ema-john-simple-with-auth).
 
 In the project directory, you can run:
 
-### `Step-1`
-## Authentication
+## `Step-1`
+Authentication
 - Firebase - Create project.
 - Create web app
 - Get configuration
@@ -15,7 +15,7 @@ In the project directory, you can run:
 - Enable Auth method
 
 ## `Step-2`
-## Login & Register Component
+Login & Register Component
 - Create Login component
 - Create Register component
 - Create Route for Login & Register
