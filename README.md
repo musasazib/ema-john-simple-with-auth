@@ -29,7 +29,7 @@ Google Sign In Method
 - Return necessary methods and states from useFirebase
 
 ## `Step-4`
-Context
+Context, Auth Provider & useAuth
 - Create a auth context
 - Create Context Provider
 - Use auth provider
