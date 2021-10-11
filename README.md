@@ -14,7 +14,7 @@ In the project directory, you can run:
 - Initialize firebase
 - Enable Auth method
 
-### `Step-2`
+## `Step-2`
 ## Login & Register Component
 - Create Login component
 - Create Register component
