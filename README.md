@@ -32,6 +32,7 @@ Google Sign In Method
 Context, Auth Provider & useAuth
 - Create a auth context
 - Create Context Provider
+- Set context provider context value
 - Use auth provider
 - Create useAuth hook
 
