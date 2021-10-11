@@ -26,4 +26,12 @@ Google Sign In Method
 - Set up Sign Out Method
 - User state
 - Special observer
+- Return necessary methods and states from useFirebase
+
+## `Step-4`
+Context
+- Create a auth context
+- Create Context Provider
+- Use auth provider
+- Create useAuth hook
 
