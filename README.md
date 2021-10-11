@@ -36,3 +36,8 @@ Context, Auth Provider & useAuth
 - Use auth provider
 - Create useAuth hook
 
+## `Step-5`
+Private Route
+- Create private route
+- Set private route
+
