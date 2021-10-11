@@ -20,3 +20,10 @@ Login & Register Component
 - Create Register component
 - Create Route for Login & Register
 
+## `Step-3`
+Google Sign In Method
+- Set up Sign In Method
+- Set up Sign Out Method
+- User state
+- Special observer
+
